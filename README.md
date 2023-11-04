@@ -26,7 +26,7 @@ This app was created by Hamzaoui Thameur and Omari Hamza. We acknowledge their c
 You can use this app to play audio tracks, control playback, and test background audio playback. Customize the audio source by modifying the `startAudio` function and specifying the desired audio file.
 
 ## Screenshot
-![App Screenshot](screenshots/screenshot.png)
+![App Screenshot](screenshot/screenshot.png)
 
 
 ## Prerequisites
