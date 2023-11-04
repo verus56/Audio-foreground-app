@@ -39,4 +39,4 @@ To get started with this app, follow these steps:
 1. Clone this repository to your local machine:
 
    ```shell
-   git clone https://github.com/yourusername/flutter-music-app.git
+   git clone https://github.com/verus56/flutter-music-app.git
