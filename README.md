@@ -12,13 +12,12 @@ This Flutter music app consists of the following components:
 
 - **Foreground Service:** The app uses Flutter Background Service to run audio playback in the background and display a notification when audio is playing in the foreground.
 
-- **Navigation:** There's a navigation button to a "CreateurPage" where you can navigate to a different page.
 
 ## Foreground Service
 This app utilizes a foreground service to provide a seamless audio playback experience even when the app is in the background. The foreground service ensures that the music continues to play and provides a notification for easy control.
 
 ## Credits
-This app was created by Hamzaoui Thameur and Omari Hamza. We acknowledge their contributions to the development of this Flutter music app.
+This app was created by Hamzaoui Thameur and Omari Hamza.
 
 ## Usage
 You can use this app to play audio tracks, control playback, and test background audio playback. Customize the audio source by modifying the `startAudio` function and specifying the desired audio file.
