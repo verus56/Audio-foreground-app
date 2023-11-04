@@ -1,7 +1,7 @@
 # Tp3 Audio-foreground-app
 
 Tp3
-This is a simple Flutter music app that allows you to play an audio track. It uses the Just Audio package for audio playback and provides a basic user interface with control buttons.
+This is a simple Flutter Audio-foreground app that allows you to play an audio track. It uses the Just Audio package for audio playback and provides a basic user interface with control buttons.
 
 ## App Overview
 This Flutter music app consists of the following components:
