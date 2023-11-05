@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Flutter Tp 3',
-      theme: ThemeData.dark(), // Use a dark theme for Deezer-style UI.
+      theme: ThemeData.dark(), 
       home: const MyHomePage(title: 'Music app'),
     );
   }
